@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.notelist{
+    border: 1px solid rgb(118, 118, 138);
+    width: 200px;
+    padding: 10px;
+}
+.footer{
+    
+    margin : 0;
+    width: 100vw;
+}
+
